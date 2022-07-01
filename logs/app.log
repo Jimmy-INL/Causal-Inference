@@ -1,2 +1,2 @@
-29-06-2022 02:03:45 - [INFO] -  file_handler - (file_handler.py).read_csv(line 25) - Csv file read from ../data/data.csv.
-29-06-2022 02:08:32 - [INFO] -  file_handler - (file_handler.py).to_csv(line 17) - Csv file saved in ../data/data.csv.
+01-07-2022 10:05:50 - [INFO] -  file_handler - (file_handler.py).read_csv(line 25) - Csv file read from ../data/data.csv.
+01-07-2022 10:23:58 - [INFO] -  file_handler - (file_handler.py).read_csv(line 25) - Csv file read from ../data/data.csv.
