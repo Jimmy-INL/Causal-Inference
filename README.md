@@ -31,7 +31,7 @@ The repository has a number of files including python scripts, jupyter notebooks
 ## Data
 - We are using the Breast Cancer Wisconsin (Diagnostic) Data Set extracted from [kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 ## notebooks
-- [EDA.ipynb](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/notebooks/1.%20EDA.ipynb): a jupyter notebook for exploratory data analysis
+- [Data_Exploration.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Data_Exploration.ipynb): a jupyter notebook for exploratory data analysis
 ## scripts
 - [app_logger.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/app_logger.py)
     - a python script for logging
