@@ -61,3 +61,5 @@ The repository has a number of files including python scripts, jupyter notebooks
 
 ## logs:
 - the folder containing log files (if it doesn't exist it will be created once logging starts)
+# <a name='license'></a>License
+[MIT](https://github.com/Abel-Blue/breastCancer-causal-Inference/blob/main/LICENSE)
