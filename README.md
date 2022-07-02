@@ -1,4 +1,4 @@
-# casual-graph
+# Causal-Inference
 **Table of Contents**
 
   - [Overview](#overview)
@@ -31,6 +31,7 @@ The repository has a number of files including python scripts, jupyter notebooks
 ## Data
 - We are using the Breast Cancer Wisconsin (Diagnostic) Data Set extracted from [kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 ## notebooks
+
 - [EDA.ipynb](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/notebooks/1.%20EDA.ipynb): a jupyter notebook for exploratory data analysis
 ## scripts
 - [app_logger.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/app_logger.py)
@@ -53,14 +54,37 @@ The repository has a number of files including python scripts, jupyter notebooks
 - [vis_plotly.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/vis_plotly.py)
     - a collection of methods for ploting a graph
 - [vis_seaborn.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/vis_seaborn.py)
+=======
+- [Data_Exploration.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Data_Exploration.ipynb): a jupyter notebook for exploratory data analysis
+-[Causal_Learning.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Causal_Learning.ipynb): a jupyter notebook for causal learning
+-[Models.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Models.ipynb): a jupyter notebook for causal learning
+## scripts
+- [app_logger.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/app_logger.py)
+    - a python script for logging
+- [file_handler.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/file_handler.py)
+
+    - a python script for handling reading and writing of csv, pickle and other files
+- [config.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/config.py)
+    - class for exploring the data
+- [df_cleaner.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_cleaner.py)
+    - dataframe cleaner helper functions
+- [df_outlier.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_outlier.py)
+    - Dataframe Outlier class
+- [df_overview.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_overview.py)
+    - update the code per request
+- [eda_helper.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/eda_helper.py) 
+    - a class for Exploratory Data Analysis
+- [file_handler.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/file_handler.py)
+    - a class for reading and saving datafram.
+- [vis_plotly.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/vis_plotly.py)
+    - a collection of methods for ploting a graph
+- [vis_seaborn.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/vis_seaborn.py)
     - a collection of methods for ploting a graph
 ## tests:
 - the folder containing unit tests for components in the scripts
 
 ## logs:
 - the folder containing log files (if it doesn't exist it will be created once logging starts)
-
-
-
-
+# <a name='license'></a>License
+[MIT](https://github.com/Abel-Blue/breastCancer-causal-Inference/blob/main/LICENSE)
 
