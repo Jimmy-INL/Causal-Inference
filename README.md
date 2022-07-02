@@ -42,9 +42,9 @@ The repository has a number of files including python scripts, jupyter notebooks
     - class for exploring the data
 - [df_cleaner.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_cleaner.py)
     - dataframe cleaner helper functions
-- [df_outlier.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/df_outlier.py)
+- [df_outlier.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_outlier.py)
     - Dataframe Outlier class
-- [df_overview.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/df_overview.py)
+- [df_overview.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_overview.py)
     - update the code per request
 - [eda_helper.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/eda_helper.py) 
     - a class for Exploratory Data Analysis
