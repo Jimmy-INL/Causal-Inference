@@ -33,7 +33,7 @@ The repository has a number of files including python scripts, jupyter notebooks
 ## notebooks
 - [Data_Exploration.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Data_Exploration.ipynb): a jupyter notebook for exploratory data analysis
 ## scripts
-- [app_logger.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/app_logger.py)
+- [app_logger.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/app_logger.py)
     - a python script for logging
 - [file_handler.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/file_handler.py)
 
