@@ -35,7 +35,7 @@ The repository has a number of files including python scripts, jupyter notebooks
 ## scripts
 - [app_logger.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/app_logger.py)
     - a python script for logging
-- [file_handler.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/file_handler.py)
+- [file_handler.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/file_handler.py)
 
     - a python script for handling reading and writing of csv, pickle and other files
 - [config.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/config.py)
