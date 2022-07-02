@@ -46,13 +46,13 @@ The repository has a number of files including python scripts, jupyter notebooks
     - Dataframe Outlier class
 - [df_overview.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/df_overview.py)
     - update the code per request
-- [eda_helper.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/eda_helper.py) 
+- [eda_helper.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/eda_helper.py) 
     - a class for Exploratory Data Analysis
-- [file_handler.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/file_handler.py)
+- [file_handler.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/file_handler.py)
     - a class for reading and saving datafram.
-- [vis_plotly.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/vis_plotly.py)
+- [vis_plotly.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/vis_plotly.py)
     - a collection of methods for ploting a graph
-- [vis_seaborn.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/vis_seaborn.py)
+- [vis_seaborn.py](https://github.com/tadesse381/Causal-Inference/tree/main/scripts/vis_seaborn.py)
     - a collection of methods for ploting a graph
 ## tests:
 - the folder containing unit tests for components in the scripts
