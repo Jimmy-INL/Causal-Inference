@@ -20,3 +20,5 @@ Traceback (most recent call last):
   File "pandas\_libs\parsers.pyx", line 674, in pandas._libs.parsers.TextReader._setup_parser_source
 FileNotFoundError: [Errno 2] No such file or directory: '../data/cleaned_data.csv'
 01-07-2022 12:25:51 - [INFO] -  file_handler - (file_handler.py).read_csv(line 25) - Csv file read from ../data/data.csv.
+01-07-2022 12:30:15 - [INFO] -  file_handler - (file_handler.py).read_csv(line 25) - Csv file read from ../data/data.csv.
+01-07-2022 21:56:37 - [INFO] -  file_handler - (file_handler.py).read_csv(line 25) - Csv file read from ../data/data.csv.
