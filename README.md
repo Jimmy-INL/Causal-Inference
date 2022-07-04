@@ -54,7 +54,6 @@ The repository has a number of files including python scripts, jupyter notebooks
 - [vis_plotly.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/vis_plotly.py)
     - a collection of methods for ploting a graph
 - [vis_seaborn.py](https://github.com/10-Academy-quad-squad/casual-graph/blob/dev-abreham/scripts/vis_seaborn.py)
-=======
 - [Data_Exploration.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Data_Exploration.ipynb): a jupyter notebook for exploratory data analysis
 -[Causal_Learning.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Causal_Learning.ipynb): a jupyter notebook for causal learning
 -[Models.ipynb](https://github.com/tadesse381/Causal-Inference/blob/main/notebooks/Models.ipynb): a jupyter notebook for causal learning
